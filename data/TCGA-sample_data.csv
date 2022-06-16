@@ -1,0 +1,11 @@
+SUBJECT ID,Age,Gender,Histology,Grade,IDH-status,IDH-allele,1p/19q-co-deletion ,Survival(months) ,Karnofsky-score,img_dir
+TCGA-06-0145,53.0,female,glioblastoma,G4,WT,,non-codel,2.3327,,TCGA-06-0145
+TCGA-06-0190,62.0,male,glioblastoma,G4,WT,,non-codel,10.415,80.0,TCGA-06-0190
+TCGA-06-0646,60.0,male,glioblastoma,G4,WT,,non-codel,5.7496,80.0,TCGA-06-0646
+TCGA-06-5408,54.0,female,glioblastoma,G4,WT,,non-codel,11.7292,80.0,TCGA-06-5408
+TCGA-06-5413,67.0,male,glioblastoma,G4,WT,,non-codel,8.8051,60.0,TCGA-06-5413
+TCGA-06-6389,49.0,female,glioblastoma,G4,Mutant,IDH1,non-codel,7.7866,100.0,TCGA-06-6389
+TCGA-14-1456,23.0,male,glioblastoma,G4,Mutant,IDH1,non-codel,40.9372,80.0,TCGA-14-1456
+TCGA-14-3477,38.0,female,glioblastoma,G4,WT,,non-codel,3.7783,80.0,TCGA-14-3477
+TCGA-19-5954,72.0,female,glioblastoma,G4,WT,,non-codel,7.9509,60.0,TCGA-19-5954
+TCGA-76-6656,66.0,male,glioblastoma,G4,WT,,non-codel,4.8297,60.0,TCGA-76-6656
