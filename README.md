@@ -1,4 +1,4 @@
-# NorDoc 2022: Artificial intelligence and deep learning for precision imaging
+# NorDoc 2022 workshop: Artificial intelligence and deep learning for precision imaging
 
 > Part of the NorDoc PhD Conference on _[Sustainability in Health](https://www.uib.no/en/med/146139/nordoc-phd-summit-and-summer-school-bergen-2022)_, June 17&ndash;18, 2022. 
 
