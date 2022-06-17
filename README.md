@@ -1,8 +1,10 @@
-# NorDoc2022: Artificial intelligence and deep learning for precision imaging
+# NorDoc 2022: Artificial intelligence and deep learning for precision imaging
 
 > Part of the NorDoc PhD Conference on _[Sustainability in Health](https://www.uib.no/en/med/146139/nordoc-phd-summit-and-summer-school-bergen-2022)_, June 17&ndash;18, 2022. 
 
-This short presentation and accompanying workshop take you on a guided tour of parts of the landscape of deep learning in the context of medical imaging. 
+_18.06.22, [Alexander Selvikvåg Lundervold](https://alexander.lundervold.com/) & [Arvid Lundervold](https://www.uib.no/en/persons/Arvid.Lundervold)_
+
+These lectures and the accompanying workshop take you on a short guided tour of deep learning in the context of medical imaging.
 
 ## Slides
 
@@ -13,7 +15,7 @@ Here you'll find PDF versions of the lecture slides.
 Slides from the plenary presentation _Artificial intelligence and machine learning algorithms for brain cancer biomarker analysis and prognostication promotes sustainability in medical science_ by Arvid Lundervold.
 
 
-![](assets/plenary_presentation.png)
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vTzKxBxTiYPpnLnEzBOGuv5Ju3A2jA_uZNFhkv97CNoOnR0BV5chfwBeplIFgaEytvQu7iTjbtlDhAS/pub?start=false&loop=false&delayms=3000">![](assets/plenary_presentation.png)</a>
 
 ### Slides from the workshop
 
@@ -24,7 +26,7 @@ The parts of the workshop connected to the slides linked below provide (i) an in
 
 ## Notebooks
 
-The hands-on part of the notebook is based on the first two notebooks linked below. The notebooks marked as "extra" will be mentioned as possible self-study material but will not be covered in any detail. 
+The hands-on part of the workshop is based on the first two notebooks linked below. The ones marked as "extra" will be mentioned as possible self-study material but will not be covered in any detail. 
 
 
 
