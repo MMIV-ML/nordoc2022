@@ -21,7 +21,7 @@ Slides from the plenary presentation _Artificial intelligence and machine learni
 
 The parts of the workshop connected to the slides linked below provide (i) an introduction to deep learning (connected to notebook `1.0-asl-segmentation-brain_tumor_segmentation.ipynb` linked below) and (ii) some perspectives about how to approach deep learning as a practical tool in any concrete application domain. 
 
-![](assets/workshop_presentation.png)
+<a href="assets/NorDoc2022-1806-1030-ASLundervold-DeepLearning.pdf">![](assets/workshop_presentation.png)</a>
 
 
 ## Notebooks
